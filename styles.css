@@ -104,9 +104,11 @@ main button:hover {
     flex-direction: column;
     align-items: flex-end;
     z-index: 1;
+    transition: all 0.2s;
   }
   #bars{
     display: block;
+    transition: all 0.2s;
   } 
   main h1{
     font-size: 2rem;
